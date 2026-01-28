@@ -2,28 +2,16 @@
 
 # 👋 Hello, I'm Zayan
 
-### 18 y/o Developer from Indonesia 🇮🇩
 
-[![Email](https://img.shields.io/badge/Email-zayanrizki14%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zayanrizki14@gmail.com)
+[![Email](https://img.shields.io/badge/Email-zayanrizki14%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zayangracia@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-@zayanrzki-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zayanrzki)
 [![Discord](https://img.shields.io/badge/Discord-zayansadewa-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zayansadewa)
 [![Dev.to](https://img.shields.io/badge/Dev.to-jey-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/jey)
 
 ---
 
-### 💡 About Me
 
-```javascript
-const zayan = {
-    age: 18,
-    location: "Indonesia",
-    interests: ["Cyber Security", "Cryptocurrency", "Web Development"],
-    askMeAbout: ["PHP", "JavaScript", "SHA256"],
-    currentFocus: "Building secure and scalable applications"
-};
-```
-
-🔐 **Passionate about:** Cyber Security | 💰 Cryptocurrency Enthusiast | 🌐 Web Development
+🔐 **Passionate about:** Robotic | 💰 Cryptocurrency Enthusiast | 🌐 Web/Mobile Development
 
 ---
 
