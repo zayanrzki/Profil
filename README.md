@@ -5,25 +5,13 @@
 ### 💻 18 y/o Developer | 🔐 Security Enthusiast | 🇮🇩 From Indonesia
 
 <p>
-<a href="mailto:zayanrizki14@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:zayangracia@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://instagram.com/zayanrzki"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://discord.gg/zayansadewa"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="https://dev.to/jey"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
 </p>
 
 ---
 
-### 💡 About Me
-
-```javascript
-const zayan = {
-    age: 18,
-    location: "Indonesia",
-    interests: ["Cyber Security", "Cryptocurrency", "Web Development"],
-    askMeAbout: ["PHP", "JavaScript", "SHA256"],
-    currentFocus: "Building secure and scalable applications"
-};
-```
 
 🔐 **Passionate about:** Cyber Security | 💰 Cryptocurrency Enthusiast | 🌐 Web Development
 
@@ -80,11 +68,6 @@ const zayan = {
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
-
----
 
 <p align="center">
 <i>💬 "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
