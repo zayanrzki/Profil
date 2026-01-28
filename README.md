@@ -59,9 +59,6 @@
 
 --->
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
 
 ---
 
