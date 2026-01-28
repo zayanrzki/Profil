@@ -1,17 +1,31 @@
 <div align="center">
 
-# 👋 Hello, I'm Zayan
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hello%20World!%20I'm%20Zayan%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
+### 💻 18 y/o Developer | 🔐 Security Enthusiast | 🇮🇩 From Indonesia
 
-[![Email](https://img.shields.io/badge/Email-zayangracia%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zayangracia@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@zayanrzki-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zayanrzki)
-[![Discord](https://img.shields.io/badge/Discord-zayansadewa-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zayansadewa)
-[![Dev.to](https://img.shields.io/badge/Dev.to-jey-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/jey)
+<p>
+<a href="mailto:zayanrizki14@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://instagram.com/zayanrzki"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://discord.gg/zayansadewa"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://dev.to/jey"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
+</p>
 
 ---
 
+### 💡 About Me
 
-🔐 **Passionate about:** Robotic | 💰 Cryptocurrency Enthusiast | 🌐 Web/Mobile Development
+```javascript
+const zayan = {
+    age: 18,
+    location: "Indonesia",
+    interests: ["Cyber Security", "Cryptocurrency", "Web Development"],
+    askMeAbout: ["PHP", "JavaScript", "SHA256"],
+    currentFocus: "Building secure and scalable applications"
+};
+```
+
+🔐 **Passionate about:** Cyber Security | 💰 Cryptocurrency Enthusiast | 🌐 Web Development
 
 ---
 
@@ -57,7 +71,18 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
+---
 
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
 
 ---
 
