@@ -16,12 +16,14 @@
 ```javascript
 const zayan = {
     age: 18,
-    location: "Indonesia 🌏",
-    interests: ["Cyber Security 🔐", "Cryptocurrency 💰", "Web Development 🌐"],
+    location: "Indonesia",
+    interests: ["Cyber Security", "Cryptocurrency", "Web Development"],
     askMeAbout: ["PHP", "JavaScript", "SHA256"],
     currentFocus: "Building secure and scalable applications"
 };
 ```
+
+🔐 **Passionate about:** Cyber Security | 💰 Cryptocurrency Enthusiast | 🌐 Web Development
 
 ---
 
