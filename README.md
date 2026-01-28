@@ -3,7 +3,7 @@
 # 👋 Hello, I'm Zayan
 
 
-[![Email](https://img.shields.io/badge/Email-zayanrizki14%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zayangracia@gmail.com)
+[![Email](https://img.shields.io/badge/Email-zayangracia%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zayangracia@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-@zayanrzki-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zayanrzki)
 [![Discord](https://img.shields.io/badge/Discord-zayansadewa-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zayansadewa)
 [![Dev.to](https://img.shields.io/badge/Dev.to-jey-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/jey)
@@ -57,14 +57,7 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
-</p>
+--->
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
